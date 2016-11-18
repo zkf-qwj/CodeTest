@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="GB2312"?>
+<BroadcastData creationDate="20161023220122">
+  <ProviderInfo>
+    <ProviderId>1</ProviderId>
+    <ProviderName>ocn</ProviderName>
+  </ProviderInfo>
+  <ScheduleData>
+    <ChannelPeriod beginTime="20161024000500" endTime="20161025005300">
+      <ChannelId>1001</ChannelId>
+      <Event duration="5160" beginTime="20161024000500">
+        <EventId>000046360357</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>中国梦之声天籁之战</Name>
+            <ShortDescription>中国梦之声天籁之战</ShortDescription>
+            <Description>中国梦之声天籁之战1</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="4740" beginTime="20161024013100">
+        <EventId>000046360359</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>笑傲江湖第三季4</Name>
+            <ShortDescription>笑傲江湖第三季4</ShortDescription>
+            <Description>笑傲江湖第三季4</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="5040" beginTime="20161024025000">
+        <EventId>000046360361</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>笑傲江湖第三季8</Name>
+            <ShortDescription>笑傲江湖第三季8</ShortDescription>
+            <Description>笑傲江湖第三季8</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="3540" beginTime="20161024041400">
+        <EventId>000046360363</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>梦想改造家第二季5</Name>
+            <ShortDescription>梦想改造家第二季5</ShortDescription>
+            <Description>梦想改造家第二季5</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1740" beginTime="20161024051300">
+        <EventId>000046360365</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>第二季急诊室故事11</Name>
+            <ShortDescription>第二季急诊室故事11</ShortDescription>
+            <Description>第二季急诊室故事11夺命电瓶车</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1740" beginTime="20161024054200">
+        <EventId>000046360367</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>第二季急诊室故事10</Name>
+            <ShortDescription>第二季急诊室故事10</ShortDescription>
+            <Description>第二季急诊室故事10为你加油</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1200" beginTime="20161024061100">
+        <EventId>000046360369</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>急诊室故事第二季6</Name>
+            <ShortDescription>急诊室故事第二季6</ShortDescription>
+            <Description>急诊室故事第二季6</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1740" beginTime="20161024063100">
+        <EventId>000046360371</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>七分之一236</Name>
+            <ShortDescription>七分之一236</ShortDescription>
+            <Description>七分之一236</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="3600" beginTime="20161024070000">
+        <EventId>000046360373</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>看东方_1</Name>
+            <ShortDescription>看东方_1</ShortDescription>
+            <Description>看东方</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="4080" beginTime="20161024080000">
+        <EventId>000046360375</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>看东方_2</Name>
+            <ShortDescription>看东方_2</ShortDescription>
+            <Description>看东方</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="2340" beginTime="20161024090800">
+        <EventId>000046360377</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>红旗漫卷西风3</Name>
+            <ShortDescription>红旗漫卷西风3</ShortDescription>
+            <Description>红旗漫卷西风3</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="2220" beginTime="20161024094700">
+        <EventId>000046360379</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>红旗漫卷西风4</Name>
+            <ShortDescription>红旗漫卷西风4</ShortDescription>
+            <Description>红旗漫卷西风4</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="4620" beginTime="20161024102400">
+        <EventId>000046360381</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>妈妈咪呀第三季3</Name>
+            <ShortDescription>妈妈咪呀第三季3</ShortDescription>
+            <Description>妈妈咪呀第三季3</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1140" beginTime="20161024114100">
+        <EventId>000046360383</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>潮童天下336</Name>
+            <ShortDescription>潮童天下336</ShortDescription>
+            <Description>潮童天下336</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1860" beginTime="20161024120000">
+        <EventId>000046360385</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>东方大头条</Name>
+            <ShortDescription>东方大头条</ShortDescription>
+            <Description>东方大头条</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="5400" beginTime="20161024123100">
+        <EventId>000046360387</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>笑傲江湖第三季1</Name>
+            <ShortDescription>笑傲江湖第三季1</ShortDescription>
+            <Description>笑傲江湖第三季1</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="5520" beginTime="20161024140100">
+        <EventId>000046360389</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>笑傲江湖第三季2</Name>
+            <ShortDescription>笑傲江湖第三季2</ShortDescription>
+            <Description>笑傲江湖第三季2</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="5220" beginTime="20161024153300">
+        <EventId>000046360391</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>笑傲江湖第三季5</Name>
+            <ShortDescription>笑傲江湖第三季5</ShortDescription>
+            <Description>笑傲江湖第三季5</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="3600" beginTime="20161024170000">
+        <EventId>000046360393</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>娱乐星天地</Name>
+            <ShortDescription>娱乐星天地</ShortDescription>
+            <Description>娱乐星天地</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="3600" beginTime="20161024180000">
+        <EventId>000046360395</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>东方新闻</Name>
+            <ShortDescription>东方新闻</ShortDescription>
+            <Description>东方新闻</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1980" beginTime="20161024190000">
+        <EventId>000046360397</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>转(中央台)新闻联播</Name>
+            <ShortDescription>转(中央台)新闻联播</ShortDescription>
+            <Description>转(中央台)新闻联播</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="2760" beginTime="20161024193300">
+        <EventId>000046360399</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>红旗漫卷西风5</Name>
+            <ShortDescription>红旗漫卷西风5</ShortDescription>
+            <Description>红旗漫卷西风5</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="2880" beginTime="20161024201900">
+        <EventId>000046360401</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>红旗漫卷西风6</Name>
+            <ShortDescription>红旗漫卷西风6</ShortDescription>
+            <Description>红旗漫卷西风6</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1080" beginTime="20161024210700">
+        <EventId>000046360403</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>东方看大剧</Name>
+            <ShortDescription>东方看大剧</ShortDescription>
+            <Description>东方看大剧</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="660" beginTime="20161024212500">
+        <EventId>000046360405</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>直播上海</Name>
+            <ShortDescription>直播上海</ShortDescription>
+            <Description>直播上海</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="1380" beginTime="20161024213600">
+        <EventId>000046360407</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>东方大看点</Name>
+            <ShortDescription>东方大看点</ShortDescription>
+            <Description>东方大看点</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="6240" beginTime="20161024215900">
+        <EventId>000046360409</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>如果蜗牛有爱情</Name>
+            <ShortDescription>如果蜗牛有爱情</ShortDescription>
+            <Description>如果蜗牛有爱情</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+      <Event duration="4200" beginTime="20161024234300">
+        <EventId>000046360411</EventId>
+        <EventType>S</EventType>
+        <EpgProduction>
+          <EpgText language="chi">
+            <Name>极限挑战第二季10</Name>
+            <ShortDescription>极限挑战第二季10</ShortDescription>
+            <Description>极限挑战第二季10</Description>
+          </EpgText>
+          <DvbContent>
+            <Content nibble1="" nibble2=""/>
+            <User nibble1="0" nibble2="0"/>
+          </DvbContent>
+        </EpgProduction>
+      </Event>
+    </ChannelPeriod>
+  </ScheduleData>
+</BroadcastData>

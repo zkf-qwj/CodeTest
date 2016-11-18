@@ -1,0 +1,7 @@
+
+<?php
+$arr = Array('a'=>'http://abc', 'b'=>'two', 'c'=>'three');
+$b = json_encode($arr);
+echo str_replace("\\/", "/",  json_encode("2013/4/21"));
+echo $b;
+echo json_encode($arr);
